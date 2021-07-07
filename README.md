@@ -23,6 +23,12 @@ For this coding project, we will use the Adafruit_MCP23017 library, which is ava
 
 We will blink the LEDs with blink without delay, using the millis() function.
 
+For this PCB, we will use the CH340 USB to TTL converter for power. The left of the PCB is 0V.
+
+The GPIO1B/A for MCP1, the bottom left is pin GPIO1B, the top left is pin GPIO1A.
+
+Note that the SCL/SDA, the SCL occupies the left column and the SDA occupies the right column.
+
 Please have a look at the finished product at https://youtu.be/jTqL6OeRdE8.
 
 Once again, I would like to thank JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT.
