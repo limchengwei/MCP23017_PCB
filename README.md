@@ -25,6 +25,6 @@ We will blink the LEDs with blink without delay, using the millis() function.
 
 Please have a look at the finished product at https://youtu.be/jTqL6OeRdE8.
 
-Once again, I would like to thank JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT
+Once again, I would like to thank JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT.
 
 
