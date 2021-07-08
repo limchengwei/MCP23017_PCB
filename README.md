@@ -6,7 +6,7 @@ The MCP23017 PCB consists of 8 16-Bit I/O Expander with Serial Interface MCP2301
 
 What is an MCP23017 chip?
 
-It is an integrated circuit (IC) which is an extension of input or output (IO) pins of a microcontroller using the I2C serial communication protocol. It uses the SCL and SDA communication line between the MCP23017 and a microcontroller such as an Arduino or a Raspberry pi. Some of the microcontrollers have limited number of IO pins, as such, an IO extension like MCP23017 is needed.
+It is an integrated circuit (IC) which is an extension of input or output (IO) pins of a microcontroller using the I2C serial communication protocol. It uses the SCL and SDA communication line between the MCP23017 and a microcontroller such as an Arduino or a Raspberry pi. Some of the microcontrollers have a limited number of IO pins, as such, an IO extension like MCP23017 is needed.
 
 There are SCL and SDA communication pins on the MCP.
 
