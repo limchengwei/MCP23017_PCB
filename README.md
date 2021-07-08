@@ -13,7 +13,7 @@ There is SCL and SDA communciation pins on the MCP.
 
 3 address pins to configure the address of the MCP, which can provide up to 8 MCP23017 for a microcontroller. The address are indexed from 0 to 7, using digital logic to set the address. The Most Significant Bit (MSB) is the A2.
 
-There is a active low on the MCP, which a logic low is needed to reset the MCP.
+There is a active low reset on the MCP, which a logic low is needed to reset the MCP.
 
 There are 2 interrupt pins on the MCP.
 
