@@ -29,7 +29,7 @@ The GPIO1B/A for MCP1, the bottom left is pin GPIO1B, the top left is pin GPIO1A
 
 Note that the SCL/SDA, the SCL occupies the left column and the SDA occupies the right column.
 
-Please have a look at the finished product at https://youtu.be/jTqL6OeRdE8.
+Please have a look at the finished product at https://youtu.be/Q88LNainI1Q.
 
 Once again, I would like to thank JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT.
 
